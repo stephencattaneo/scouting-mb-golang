@@ -11,4 +11,4 @@ golang exercise for Scouting Programming Merit Badge
 7. In the AI box, ask it to run your program. This will set up the environment required to run the code you're looking at.
 8. Click the green > button to run the code to see how the program operates.
 9. Click the Console tab to interact with your program.
-10. Attempt to make suggested changes in the comments at the bottom.
+10. Read the comment at the top of the file. Fix the bugs and make 2 of the suggested changes

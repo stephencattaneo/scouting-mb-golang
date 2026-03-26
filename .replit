@@ -1,1 +1,2 @@
-run ["go", "run", "inventory.go"]
+language = "go"
+run = "go run inventory.go"
